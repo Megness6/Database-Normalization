@@ -1,6 +1,6 @@
 # Database-Normalization
 
-### Description: Orchestrated the parsing and normalization of a complex, large-scale dataset consisting of over 600,000 rows of messy, unstructured data. This project aimed to clean, organize, and structure the dataset by applying efficient data processing and normalization techniques, using Python, SQL, and custom scripting to create a normalized relational database.
+**Description:** Orchestrated the parsing and normalization of a complex, large-scale dataset consisting of over 600,000 rows of messy, unstructured data. This project aimed to clean, organize, and structure the dataset by applying efficient data processing and normalization techniques, using Python, SQL, and custom scripting to create a normalized relational database.
 ## Details:
 **Data Parsing:** Utilized Python scripting to parse raw data from a large, disorganized file into manageable pieces. Cleaned and transformed the data using various built-in Python libraries like re (regular expressions) and datetime for efficient data extraction and conversions.
 **Normalization:** Constructed a normalized relational database by creating six distinct tables, ensuring data integrity and eliminating redundancy. Applied normalization techniques, specifically breaking down the data into logical, non-redundant segments (up to 3NF), and establishing primary and foreign key relationships between tables.
